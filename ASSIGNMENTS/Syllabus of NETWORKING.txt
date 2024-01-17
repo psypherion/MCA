@@ -1,0 +1,7 @@
+Syllabus of *NETWORKING PCA2 (OFFLINE EXAM)* - 
+ Protocols of all 7 OSI MODEL layers
+CIDR , supernetting (numericals)
+Classes of ip address
+Flow control , access control ( numericals+ working)
+
+*DATE - 25.01.24*
